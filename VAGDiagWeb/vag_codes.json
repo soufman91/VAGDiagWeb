@@ -1,0 +1,20 @@
+{
+  "17965": {
+    "systeme": "Turbo",
+    "libelle": "Charge Pressure Control: Positive Deviation",
+    "description": "Surpression turbo détectée.",
+    "commentaires": [
+      "Wastegate grippée",
+      "N75 défaillante"
+    ]
+  },
+  "01314": {
+    "systeme": "Calculateur moteur",
+    "libelle": "ECM – No Communication",
+    "description": "Pas de communication avec le calculateur moteur.",
+    "commentaires": [
+      "Faisceau CAN",
+      "Alimentation calculateur"
+    ]
+  }
+}
